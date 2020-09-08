@@ -2,7 +2,7 @@ public class test05_switch {
    public static void main(String[] args){
     while(true){
     java.util.Scanner scan = new java.util.Scanner(System.in);
-    int a = scan.nextInt();
+    char a= 2;
     switch(a){
         case 1:
             System.out.println(1); 
