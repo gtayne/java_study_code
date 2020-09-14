@@ -32,7 +32,7 @@ public class demo{
     }
     public static void main(String[] args){
         int arrs[]= {0,3,9,12,77,100};
-        int b = serach(arrs,99);
+        int b = serach(arrs,12);
         System.out.println(b);
         for(int a:arrs){
             System.out.println(a);
