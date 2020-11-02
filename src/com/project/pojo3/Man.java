@@ -16,7 +16,12 @@ public class Man extends Person {
         this.hair = hair;
     }
 
-
+    public void eat(){
+        System.out.println("man chide duo");
+    }
+    public void run(){
+        System.out.println("man paode kuai");
+    }
     @Override
     public String toString() {
         return "Man{" +

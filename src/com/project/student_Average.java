@@ -1,6 +1,6 @@
 package com.project;
 
-public class student_test {
+public class student_Average{
     public static void main(String[] args) {
         Student s1 = new Student();
         s1.setNo("1001");

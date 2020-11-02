@@ -36,10 +36,10 @@ public class Person {
         this.height=height;
     }
     public void eat(){
-        System.out.println("person 吃的行为");
+        System.out.println("person eat method");
     }
     public void run(){
-        System.out.println("person run的行为");
+        System.out.println("person run method");
     }
 
 
